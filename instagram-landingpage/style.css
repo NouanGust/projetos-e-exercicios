@@ -67,11 +67,12 @@
 .upper{
     z-index: 99;
     position: absolute;
-    top: 333px;
+    top: 348px;
     background-color: white;
     width: 35px;
     text-align: center;
     font-size: 15px;
+    color: lightgray;
 }
 
 a{
@@ -89,4 +90,26 @@ a:hover{
 
 .esq-senha{
     margin: 5px;
+}
+
+.cadastro{
+    border: 1px solid lightgray;
+    background-color: white;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.app p{
+    text-align: center;
+    margin: 10px 0;
+}
+
+.store{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+
 }
